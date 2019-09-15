@@ -22,7 +22,6 @@ Connection with Bluetooth using external program: 100%
   Program I used for controller setting: https://www.julianloehr.de/educational-work/hid-wiimote/
   
 Reading data/number: 15%
-  - Got the controller setting, however it needs quite a pressure to even get the sensor going.
 
 Modification: 0%
 
