@@ -31,4 +31,4 @@ Construction: No where close baby
 ## Physical Method:
 Just for fun of it :3
 
-Resistors research: 30%
+Finding out the resistors within the sensors: 30%
