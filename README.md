@@ -17,11 +17,12 @@ For now, lets go with the cheap option: Programming method.... cause I don't hav
 
 ## Programming Method:
 Connection with Bluetooth using external program: 100%
-  -> Issue: It connects for the first time, but I have to forget and redo the connection from scratch when I turn it off. There might be a fix to it, but haven't found it yet.
+  - Issue: It connects for the first time, but I have to forget and redo the connection from scratch when I turn it off. There might be a fix to it, but haven't found it yet.
+  
   Program I used for controller setting: https://www.julianloehr.de/educational-work/hid-wiimote/
   
 Reading data/number: 15%
-  -> Got the controller setting, however it needs quite a pressure to even get the sensor going.
+  - Got the controller setting, however it needs quite a pressure to even get the sensor going.
 
 Modification: 0%
 
