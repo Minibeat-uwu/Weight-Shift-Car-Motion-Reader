@@ -1,0 +1,10 @@
+The mechanical property of the pressure sensor:
+
+In the wii fit board, it contains total of 4 sensors, 1 on each legs. 
+
+The sensor is identified as strain gauge:
+- it increases it's resistance depending on the amount of tension/pressure applied to the metal's structure.
+- Is it possible to remove the sensor? No, because it's glued to the rectangular metal in the center.
+
+Possible methods to increase the resistance
+- one of the possibility is to constrct a finer pressure point so that it would increase the resistance with smaller amount of force
