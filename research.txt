@@ -1,3 +1,5 @@
+Most of the informations are researched around the surrounding resources that are found online. 
+
 The mechanical property of the pressure sensor:
 
 In the wii fit board, it contains total of 4 sensors, 1 on each legs. 
@@ -7,4 +9,28 @@ The sensor is identified as strain gauge:
 - Is it possible to remove the sensor? No, because it's glued to the rectangular metal in the center.
 
 Possible methods to increase the resistance
-- one of the possibility is to constrct a finer pressure point so that it would increase the resistance with smaller amount of force
+1) constrct a finer pressure point so that it would increase the resistance with smaller amount of force
+2) modify the code within the controller to increase the sensitivity
+
+
+1) Physical Method
+What I need to know:
+- How much pressure it needs to send out specific amount of resistance?
+- Is this small amount of voltage change allows me to catch it with arduino?
+
+* There will be more, but I'll ask when it comes up.
+
+2) Programming Method
+Wii fit board uses a simple bluetooth to connect to wii, and it can also connect to pc with no problem. Many people have already used it for many other purpose. However, the problem is:
+
+- Can you modify the sensitivity on that externally/bluetooth?
+  -> There are wii controller for pc, however can that modify the sensitivity that are sent from the system?
+- If not, can I receive the data/number from the bluetooth?
+  -> The issue with this is, can it sense a weight that is less then 1kg?
+  -> How can I read the data that are sent through bluetooth?
+
+
+
+
+Links: 
+https://www.youtube.com/watch?v=fxJ3QIaBwSU
